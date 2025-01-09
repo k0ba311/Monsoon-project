@@ -1,6 +1,6 @@
 # Monsoons-project
 
-![monsoon_project_logo](https://github.com/user-attachments/assets/54eb44e7-d67e-46f3-882b-d471a08c2e4a)
+![monsoon_project_logo(github)](https://github.com/user-attachments/assets/872fb43a-7cee-41d9-8c93-8690ee984f5e)
 
 Welcome to the "Monsoons project" repository!
 

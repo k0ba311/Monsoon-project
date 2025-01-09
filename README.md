@@ -1,13 +1,13 @@
 # Monsoons-project
 
-Welcome to the "Monsoons project" repository!
+Source code for telegram bot for generation VFS 2-way and VFS 4-way draws.
 
-Here you can download our skydiving apps, as well as explore their source code and other useful materials.
+Currently available:
+- VFS 2-way
+ - Inter
+ - A-class
+ - Open
+- VFS 4-way
 
--------------------------------------------------------------
-
-VFS draw generator: https://web.telegram.org/k/#@vfs_draw_bot
-
--------------------------------------------------------------
-
-Stay tuned for updates!
+Check the link: 
+https://web.telegram.org/k/#@vfs_draw_bot

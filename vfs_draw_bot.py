@@ -294,7 +294,7 @@ def get_keyboard_draw():
     return keyboard
 
 
-BOT_TOKEN = "7797752086:AAHG8ik6lgYoI24JDgMphWJMh_sZbtsZSXE"
+BOT_TOKEN = "YOUR_TOKEN"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)

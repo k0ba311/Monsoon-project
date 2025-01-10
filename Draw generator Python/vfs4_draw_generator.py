@@ -38,5 +38,5 @@ def generate_draws():
 
 
 results = generate_draws()
-a = '; '.join(results[0]) + "\n" + '; '.join(results[1]) + "\n" + '; '.join(results[2]) + "\n" + '; '.join(results[3]) + "\n" + '; '.join(results[4]) + "\n" + '; '.join(results[5]) + "\n" + '; '.join(results[6]) + "\n" + '; '.join(results[7]) + "\n" + '; '.join(results[8]) + "\n" + '; '.join(results[9])
-print(a)
+for draw in results:
+    print('; '.join(draw))

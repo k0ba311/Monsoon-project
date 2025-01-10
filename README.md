@@ -10,6 +10,10 @@ VFS draw generator apps for Windows. Available russian and english versions.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/f1a2b03e-cd20-4261-875e-8bf41e1d83ad) ![image](https://github.com/user-attachments/assets/4707968b-92ed-4928-a111-dc7a926c8864)
+![image](https://github.com/user-attachments/assets/f1a2b03e-cd20-4261-875e-8bf41e1d83ad) 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/4707968b-92ed-4928-a111-dc7a926c8864)
 
 Stay tuned for updates!

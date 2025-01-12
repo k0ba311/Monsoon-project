@@ -8,7 +8,8 @@ Here you can download our skydiving apps, as well as explore their source code a
 
 -------------------------------------------------------------
 
-VFS draw generator: https://web.telegram.org/k/#@vfs_draw_bot
+VFS draw generator online: http://vfsdrawgen.tilda.ws/
+VFS draw generator in telegram: https://web.telegram.org/k/#@vfs_draw_bot
 
 -------------------------------------------------------------
 

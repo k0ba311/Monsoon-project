@@ -39,7 +39,7 @@ def generate_draws_bb():
 
 def generate_draws_hu():
     hu_figures = ['HU-A', 'HU-B', 'HU-C', 'HU-D', 'HU-E', 'HU-F', 'HU-G', 'HU-H', 'HU-J']  # Массив с фигурами HU
-    hu_blocks = ['HU-01', 'HU-02', 'HU-03', 'HU-04']  # Массив с блоками HU
+    hu_blocks = ['HU-01', 'HU-02', 'HU-04']  # Массив с блоками HU
 
     all_elements = hu_figures + hu_blocks  # Объединяем массивы
     draws = []  # Массив для хранения жеребьевок

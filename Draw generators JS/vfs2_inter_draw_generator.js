@@ -40,7 +40,7 @@ function generateDrawsBB() {
 
 function generateDrawsHU() {
     const hu_figures = ['HU-A', 'HU-B', 'HU-C', 'HU-D', 'HU-E', 'HU-F', 'HU-G', 'HU-H', 'HU-J']; // Массив с фигурами HU
-    const hu_blocks = ['HU-01', 'HU-02', 'HU-03', 'HU-04']; // Массив с блоками HU
+    const hu_blocks = ['HU-01', 'HU-02', 'HU-04']; // Массив с блоками HU
 
     let allElements = [...hu_figures, ...hu_blocks]; // Объединяем массивы
     let draws = []; // Массив для хранения жеребьевок
